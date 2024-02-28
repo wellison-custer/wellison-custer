@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... iFPR - Campus União da Vitória
+- 🔭 I’m currently working on ... IFPR - Campus União da Vitória
 - 🌱 I’m currently learning ... Java and some web programming
   
 <!--

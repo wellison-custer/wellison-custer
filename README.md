@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on IFPR - Campus União da Vitória
+- 🔭 I’m currently working on the Federal Institute of Education, Science and technology
 - 🌱 I’m currently learning Java and some web programming
   
 <!--
@@ -7,6 +7,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... iFPR - Campus União da Vitória
+- 🔭 I’m currently working on ... the Federal Institute of Education, Science and technology
 - 🌱 I’m currently learning ... Java and some web programming
 -->
